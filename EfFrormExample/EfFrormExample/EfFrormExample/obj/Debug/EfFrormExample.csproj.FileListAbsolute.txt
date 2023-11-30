@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\EfFrormExample\EfFrormExample\bin\Debug\EfFrormExample.exe.config
+C:\Users\Admin\source\repos\EfFrormExample\EfFrormExample\bin\Debug\EfFrormExample.exe
+C:\Users\Admin\source\repos\EfFrormExample\EfFrormExample\bin\Debug\EfFrormExample.pdb
+C:\Users\Admin\source\repos\EfFrormExample\EfFrormExample\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\EfFrormExample\EfFrormExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\EfFrormExample\EfFrormExample\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\EfFrormExample\EfFrormExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\EfFrormExample\EfFrormExample\obj\Debug\EfFrormExample.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\EfFrormExample\EfFrormExample\obj\Debug\EfFrormExample.Properties.Resources.resources
+C:\Users\Admin\source\repos\EfFrormExample\EfFrormExample\obj\Debug\EfFrormExample.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\EfFrormExample\EfFrormExample\obj\Debug\EfFrormExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\EfFrormExample\EfFrormExample\obj\Debug\EfFrormExample.csproj.CopyComplete
+C:\Users\Admin\source\repos\EfFrormExample\EfFrormExample\obj\Debug\EfFrormExample.exe
+C:\Users\Admin\source\repos\EfFrormExample\EfFrormExample\obj\Debug\EfFrormExample.pdb
+C:\Users\Admin\source\repos\EfFrormExample\EfFrormExample\obj\Debug\EfFrormExample.Migrations.createDb.resources
+C:\Users\Admin\source\repos\EfFrormExample\EfFrormExample\obj\Debug\EfFrormExample.Form1.resources
